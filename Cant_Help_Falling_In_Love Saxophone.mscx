@@ -1227,9 +1227,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="31">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -1357,9 +1354,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="33">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Chord>
           <dots>2</dots>
           <durationType>half</durationType>
@@ -2751,9 +2745,6 @@ Performed by Pentatonix</text>
           </Rest>
         </Measure>
       <Measure number="31">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -2856,9 +2847,6 @@ Performed by Pentatonix</text>
           </Rest>
         </Measure>
       <Measure number="33">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -4325,9 +4313,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="31">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -4452,9 +4437,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="33">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <Chord>
           <dots>2</dots>
           <durationType>half</durationType>
@@ -5898,9 +5880,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="31">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -5999,9 +5978,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="33">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <Slur id="48">
           <track>12</track>
           </Slur>
@@ -7290,9 +7266,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="31">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -7388,9 +7361,6 @@ Performed by Pentatonix</text>
           </Chord>
         </Measure>
       <Measure number="33">
-        <KeySig>
-          <accidental>1</accidental>
-          </KeySig>
         <Slur id="60">
           <track>16</track>
           </Slur>

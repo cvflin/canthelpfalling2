@@ -6638,7 +6638,7 @@ Performed by Pentatonix</text>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
+            <pitch>41</pitch>
             <tpc>13</tpc>
             <tpc2>16</tpc2>
             </Note>
@@ -6667,7 +6667,7 @@ Performed by Pentatonix</text>
           <durationType>quarter</durationType>
           <Slur type="stop" id="53"/>
           <Note>
-            <pitch>51</pitch>
+            <pitch>39</pitch>
             <tpc>11</tpc>
             <tpc2>14</tpc2>
             </Note>
@@ -6688,7 +6688,7 @@ Performed by Pentatonix</text>
           <durationType>quarter</durationType>
           <Slur type="stop" id="54"/>
           <Note>
-            <pitch>53</pitch>
+            <pitch>41</pitch>
             <tpc>13</tpc>
             <tpc2>16</tpc2>
             </Note>
@@ -6698,7 +6698,7 @@ Performed by Pentatonix</text>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>55</pitch>
+            <pitch>43</pitch>
             <tpc>15</tpc>
             <tpc2>18</tpc2>
             </Note>
@@ -6755,7 +6755,7 @@ Performed by Pentatonix</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>53</pitch>
+            <pitch>41</pitch>
             <tpc>13</tpc>
             <tpc2>16</tpc2>
             </Note>
@@ -6822,7 +6822,7 @@ Performed by Pentatonix</text>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -6868,7 +6868,7 @@ Performed by Pentatonix</text>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -6914,7 +6914,7 @@ Performed by Pentatonix</text>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -7422,7 +7422,7 @@ Performed by Pentatonix</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>58</pitch>
+            <pitch>46</pitch>
             <tpc>12</tpc>
             <tpc2>15</tpc2>
             </Note>
@@ -7430,7 +7430,7 @@ Performed by Pentatonix</text>
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>50</pitch>
+            <pitch>38</pitch>
             <tpc>16</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -7668,7 +7668,7 @@ Performed by Pentatonix</text>
           <durationType>quarter</durationType>
           <Slur type="stop" id="66"/>
           <Note>
-            <pitch>48</pitch>
+            <pitch>36</pitch>
             <tpc>14</tpc>
             <tpc2>17</tpc2>
             </Note>
